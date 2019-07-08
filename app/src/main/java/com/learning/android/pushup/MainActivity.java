@@ -23,7 +23,8 @@ public class MainActivity extends AppCompatActivity {
     public void newMethod()
     {
         //new method
-        int a=1+1;
+        int a=3+3;
         String  test="Test";
+        boolean hello=true;
     }
 }
